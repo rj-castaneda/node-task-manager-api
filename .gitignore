@@ -1,0 +1,11 @@
+# Modules
+node_modules/
+
+# note
+notes.txt
+
+# client requests
+requests.rest
+
+# practice
+playground/
